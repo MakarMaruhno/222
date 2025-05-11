@@ -1,0 +1,20 @@
+body{
+  background-color: brown;
+  font-family:sans-serif , sans-serif;
+  padding:0;
+  margin: 0 ;
+}
+h1, h2, h3, h4{
+  color:darkgreen;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+header{
+  background: url(https://learn.logikaschool.com/uploads/student/4654308/6820dc045bac2.jpg) no-repeat center center / cover;
+ padding:100px 30px;
+}
+header p{
+  text-align:center;
+}
